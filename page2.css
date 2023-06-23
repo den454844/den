@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    margin-top: 25px;
+    margin-bottom:25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h2 {
+    border-left: 3px solid blue;
+    border-right: 3px solid blue;
+}
+.empty{
+    background-color:yellow;
+}
